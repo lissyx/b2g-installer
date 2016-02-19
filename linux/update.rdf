@@ -2,13 +2,13 @@
 <Description about="urn:mozilla:extension:b2g-installer@mozilla.org">
 <em:updates><Seq><li>
   <Description>
-    <em:version>0.9</em:version>
+    <em:version>0.9.9</em:version>
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>44.0a1</em:minVersion>
         <em:maxVersion>99.*</em:maxVersion>
-        <em:updateLink>https://lissyx.github.io/b2g-installer/b2g-installer-0.9-linux.xpi</em:updateLink>
+        <em:updateLink>https://lissyx.github.io/b2g-installer/b2g-installer-0.9.9-linux.xpi</em:updateLink>
       </Description>
     </em:targetApplication>
   </Description>
